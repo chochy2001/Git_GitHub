@@ -45,6 +45,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-#Imagenes que no queremos agregar
+#Imagenes que no queremos
 *.jpg
 *.png
