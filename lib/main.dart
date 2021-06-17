@@ -4,7 +4,7 @@ void main() {
   runApp(MyApp());
 }
 //Cambios realizados por mi joseCapdesis en el proyecto open source
-//Sumo comentario de prueba por EzequielAndresGodoy en el proyecto open source
+//Sumo comentario de prueba por EzequielAndresGodoy en el proyecto open source.
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
