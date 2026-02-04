@@ -3,17 +3,17 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-//Cambios realizados por mi joseCapdesis en el proyecto open source
+//Cambios realizados por mi CarmenDiaz111 en el proyecto opensource
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Git y GitHub',
+      title: 'Curso Git y GitHub',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: MyHomePage(title: 'Curso Git y GitHub'),
+      home: MyHomePage(title: 'Curso de CarmenDiaz111'),
     );
   }
 }
